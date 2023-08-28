@@ -1,0 +1,225 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Toronto Raptors-New-Edition-Snapback ",
+      "price": 39.99,
+      "rating": 4.69,
+      "stock": 54,
+      "category": "hatwear",
+      "thumbnail": "toronto-raptors--new-edition-hat-snapback.png"
+    },
+    {
+      "id": 2,
+      "title": "Toronto Raptors-Classic-Edition-Snapback",
+      "price": 35.99,
+      "rating": 4.69,
+      "stock": 24,
+      "category": "hatwear",
+      "thumbnail": "toronto-raptors-classic-hat-snapback.png"
+    },
+    {
+      "id": 3,
+      "title": "Toronto Raptors-Original-Snapback",
+      "price": 15.99,
+      "rating": 4.69,
+      "stock": 44,
+      "category": "hatwear",
+      "thumbnail": "toronto-raptors-hat-snapback.png"
+    },
+    {
+      "id": 4,
+      "title": "Toronto Raptors-Mitchell-Ness-Snapback",
+      "price": 25.99,
+      "rating": 4.69,
+      "stock": 34,
+      "category": "hatwear",
+      "thumbnail": "mitchell-ness-raptors-team-script-20-snapback.png"
+    },
+    {
+      "id": 5,
+      "title": "Toronto Raptors-Classic-Edition-Vince Carter Jersey",
+      "price": 159.99,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "jersey",
+      "thumbnail": "toronto-raptors-jersey-classic-vince-carter.png"
+    },
+    {
+      "id": 6,
+      "title": "Toronto Raptors-City-Edition-OG Anunoby Jersey",
+      "price": 139.99,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "jersey",
+      "thumbnail": "toronto-raptors-city-edition-og-anunoby-2jersey.png"
+    },
+    {
+      "id": 7,
+      "title": "Toronto Raptors-Fred Vanvleet Jersey",
+      "price": 119.99,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "jersey",
+      "thumbnail": "toronto-raptors-jersey-fred-vanvleet-men.png"
+    },
+    {
+      "id": 8,
+      "title": "Toronto Raptors- OG Anunoby Jersey",
+      "price": 149.99,
+      "rating": 4.69,
+      "stock": 54,
+      "category": "jersey",
+      "thumbnail": "toronto-raptors-jersey-og-anunoby.png"
+    },
+    {
+      "id": 9,
+      "title": "Toronto Raptors- Scottie Barnes Jersey",
+      "price": 119.99,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "jersey",
+      "thumbnail": "toronto-raptors-jersey-scottie-barnes.png"
+    },
+    {
+      "id": 10,
+      "title": "Toronto Raptors- Pascal Siakim Jersey",
+      "price": 129.99,
+      "rating": 4.69,
+      "stock": 44,
+      "category": "jersey",
+      "thumbnail": "toronto-raptors-jersey-pascal-siakim.png"
+    },
+    {
+      "id": 11,
+      "title": "Toronto Raptors- Pascal Siakim T-shirt",
+      "price": 45.99,
+      "rating": 4.69,
+      "stock": 15,
+      "category": "t-shirt",
+      "thumbnail": "toronto-raptors-pascal-sikam-t-shirt.png"
+    },
+    {
+      "id": 12,
+      "title": "Toronto Raptors - Scottie Barnes T-shirt",
+      "price": 45.99,
+      "rating": 4.69,
+      "stock": 15,
+      "category": "t-shirt",
+      "thumbnail": "toronto-raptors-scottie-barnes-t-shirt.png"
+    },
+    {
+      "id": 13,
+      "title": "Toronto Raptors-Fan T-shirt",
+      "price": 25.99,
+      "rating": 4.69,
+      "stock": 19,
+      "category": "t-shirt",
+      "thumbnail": "toronto-raptors-fan-t-shirt.png"
+    },
+    {
+      "id": 14,
+      "title": "Toronto Raptors-Essentail T-shirt",
+      "price": 35.99,
+      "rating": 4.69,
+      "stock": 9,
+      "category": "t-shirt",
+      "thumbnail": "toronto-raptors-esstential-t-shirt.png"
+    },
+    {
+      "id": 15,
+      "title": "Toronto Raptors-Pro-Brand T-shirt",
+      "price": 25.99,
+      "rating": 4.69,
+      "stock": 9,
+      "category": "t-shirt",
+      "thumbnail": "toronto-raptors-pro-brand-t-shirt.png"
+    },
+    {
+      "id": 16,
+      "title": "Toronto Raptors-CourtSide T-shirt",
+      "price": 35.99,
+      "rating": 4.69,
+      "stock": 3,
+      "category": "t-shirt",
+      "thumbnail": "toronto-raptors-regular-t-shirt.png"
+    },
+    {
+      "id": 17,
+      "title": "Toronto Raptors-CourtSide Hoodie",
+      "price": 65.99,
+      "rating": 4.69,
+      "stock": 6,
+      "category": "sweatshirt",
+      "thumbnail": "toronto-raptors-courtside-long-sleeve-tee.png"
+    },
+    {
+      "id": 18,
+      "title": "Toronto Raptors-Cres Hoodie",
+      "price": 45.99,
+      "rating": 4.69,
+      "stock": 12,
+      "category": "sweatshirt",
+      "thumbnail": "toronto-raptors-cres-hoodie.png"
+    },
+    {
+      "id": 19,
+      "title": "Toronto Raptors-Fleece Hoodie",
+      "price": 55.99,
+      "rating": 4.69,
+      "stock": 12,
+      "category": "sweatshirt",
+      "thumbnail": "toronto-raptors-fleece-hoodie.png"
+    },
+    {
+      "id": 20,
+      "title": "Toronto Raptors-Classic Hardwood Hoodie",
+      "price": 65.99,
+      "rating": 4.69,
+      "stock": 12,
+      "category": "sweatshirt",
+      "thumbnail": "toronto-raptors-hoodie-hardwood-classic.png"
+    },
+    {
+      "id": 21,
+      "title": "Toronto Raptors - Pullover Hoodie",
+      "price": 45.99,
+      "rating": 4.69,
+      "stock": 12,
+      "category": "sweatshirt",
+      "thumbnail": "toronto-raptors-hoodie-pullover-sweat-shirt.png"
+    },
+    {
+      "id": 22,
+      "title": "Toronto Raptors - LightWeight Jacket",
+      "price": 55.99,
+      "rating": 4.69,
+      "stock": 12,
+      "category": "sweatshirt",
+      "thumbnail": "toronto-raptors-lightweight-jacket.png"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "title": "Toronto Raptors-Fan T-shirt",
+      "price": 25.99,
+      "image": "toronto-raptors-fan-t-shirt.png",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "title": "Toronto Raptors-Classic-Edition-Vince Carter Jersey",
+      "price": 159.99,
+      "image": "toronto-raptors-jersey-classic-vince-carter.png",
+      "quantity": 1
+    },
+    {
+      "title": "Toronto Raptors-Pro-Brand T-shirt",
+      "price": 25.99,
+      "image": "toronto-raptors-pro-brand-t-shirt.png",
+      "quantity": 1,
+      "id": 4
+    }
+  ]
+}
